@@ -1,0 +1,6 @@
+framework module Pods_ParseD2Test {
+  umbrella header "Pods-ParseD2Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
